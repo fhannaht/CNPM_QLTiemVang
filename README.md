@@ -14,15 +14,9 @@ Vì thế quản lý cửa hàng kinh doanh vàng bạc đá quý là công cụ
 
 ## ❗Hướng dẫn chạy app:
 ## ❗Tài khoản đăng nhập:
-- Admin
 ```c
-Tài khoản:
-Mật khẩu:
-```
-- Nhân viên
-```c
-Tài khoản:
-Mật khẩu:
+Tài khoản: 1
+Mật khẩu: 1
 ```
 ## ❗Phần mềm quản lý bán hàng của cửa hàng vàng bạc đá quý gồm các chức năng:
 - Lập phiếu bán hàng
