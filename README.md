@@ -1,2 +1,20 @@
-# Quản lý cửa hàng kinh doanh vàng bạc đá quý
-Nhóm 14 Quản lý cửa hàng vàng bạc đá quý.
+# SE104.O21 - Nhóm 20
+> **Phần mềm quản lý bán hàng của cửa hàng vàng bạc đá quý**
+## Danh sách thành viên:
+|MSSV|Họ và tên|
+|-----|-----|
+|21521806|Nguyễn Nguyễn Thành An|
+|21521846|Huỳnh Hải Băng|
+## ❗Hướng dẫn chạy app:
+## ❗Tài khoản đăng nhập:
+- Admin
+```c
+Tài khoản:
+Mật khẩu:
+```
+- Nhân viên
+```c
+Tài khoản:
+Mật khẩu:
+```
+## ❗Phần mềm quản lý bán hàng của cửa hàng vàng bạc đá quý gồm các chức năng:
