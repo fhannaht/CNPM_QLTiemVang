@@ -18,3 +18,10 @@ Tài khoản:
 Mật khẩu:
 ```
 ## ❗Phần mềm quản lý bán hàng của cửa hàng vàng bạc đá quý gồm các chức năng:
+- Lập phiếu bán hàng
+- Lập phiếu mua hàng
+- Lập phiếu dịch vụ
+- Tra cứu phiếu dịch vụ
+- Lập bảng báo cáo tồn kho
+- Phân quyền truy cập
+- ...
